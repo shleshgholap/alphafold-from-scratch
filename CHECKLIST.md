@@ -8,7 +8,7 @@ This is a structured weekly plan to build a simplified AlphaFold model using PyT
 <summary><strong>Week 1: Deep Dive + Data & Tokenizer</strong></summary>
 
 - [ ] Read the AlphaFold2 paper (DeepMind) and OpenFold repo
-- [ ] Create repo structure and `README.md` with architecture overview
+- [x] Create repo structure and `README.md` with architecture overview
 - [ ] Implement `sequence_tokenizer.py`
   - [ ] `tokenize_sequence(seq)` → list of indices
   - [ ] `detokenize(indices)` → sequence string
